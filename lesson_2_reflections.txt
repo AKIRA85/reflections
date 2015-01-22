@@ -1,3 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It becomes a git repository. We need it to use version-control
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can select the files related to the change to commit 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we want to experiment
